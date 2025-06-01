@@ -2,7 +2,7 @@ Sure! Here’s a complete and professional `README.md` file for your **Kotlin Mo
 
 ---
 
-```markdown
+
 # 🧾 Kotlin Modern Form UI App
 
 A sleek and modern Android application built with **Kotlin** and **Jetpack Compose**. This app demonstrates clean UI/UX principles through interactive form components, real-time validation, and modular architecture using **MVVM**.
@@ -38,7 +38,7 @@ A sleek and modern Android application built with **Kotlin** and **Jetpack Compo
 | **LiveData / State** | UI state management |
 | **Material 3** | Modern theming and design |
 
----
+
 
 ## 📂 Project Structure
 
@@ -50,17 +50,16 @@ app/
 ├── model/         # Data models
 ├── utils/         # Utility functions and validators
 └── MainActivity.kt
+```
 
-````
 
----
 
 ## 🚀 Getting Started
 
 1. **Clone the repo**
-   ```bash
+  bash
    git clone https://github.com/yourusername/kotlin-modern-form-ui-app.git
-````
+
 
 2. **Open in Android Studio**
 
@@ -103,6 +102,4 @@ app/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
 
-```
