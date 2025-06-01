@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ፎርም ዩአይ</string>
+    <string name="menu_language_english">እንግሊዝኛ</string>
+    <string name="menu_language_amharic">አማርኛ</string>
+    <string name="personal_info">የግል መረጃ</string>
+    <string name="full_name">ሙሉ ስም</string>
+    <string name="email">ኢሜይል</string>
+    <string name="phone">ስልክ ቁጥር</string>
+    <string name="birth_date">የትውልድ ቀን</string>
+    <string name="select_date">ቀን ይምረጡ</string>
+    <string name="gender">ፆታ</string>
+    <string name="male">ወንድ</string>
+    <string name="female">ሴት</string>
+    <string name="other">ሌላ</string>
+    <string name="profile_picture">የፕሮፋይል ምስል</string>
+    <string name="select_image">ምስል ይምረጡ</string>
+    <string name="submit">አስገባ</string>
+    <string name="reset">ዳግመኛ አስጀምር</string>
+    <string name="menu_settings">ቅንብሮች</string>
+    <string name="menu_help">እርዳታ</string>
+    <string name="menu_language">ቋንቋ ቀይር</string>
+    <string name="context_edit">አስተካክል</string>
+    <string name="context_delete">ሰርዝ</string>
+    <string name="form_data_title">የቅጽ መረጃ</string>
+    <string name="education_level">የትምህርት ደረጃ</string>
+    <string name="select_education">የትምህርት ደረጃ ይምረጡ</string>
+    <string name="high_school">የከንቲባ ትምህርት ቤት</string>
+    <string name="bachelor">የባችለር ዲግሪ</string>
+    <string name="master">የማስተርስ ዲግሪ</string>
+    <string name="phd">ዶክሬት</string>
+    <string name="terms_conditions">ሁኔታዎችን እቀበላለሁ</string>
+
+    <string name="error_full_name">Please enter your full name</string>
+    <string name="error_email">Please enter your email</string>
+    <string name="error_phone">Please enter your phone number</string>
+    <string name="error_birth_date">Please select your birth date</string>
+    <string name="error_gender">Please select your gender</string>
+    <string name="error_terms">Please accept terms and conditions</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="amharic">Amharic</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PurpleFormInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <!-- Stroke Colors -->
+        <item name="boxStrokeColor">@color/white</item>
+        <item name="boxStrokeErrorColor">@color/error_red</item> <!-- Recommended -->
+
+        <!-- Text Colors -->
+        <item name="hintTextColor">?attr/colorOnSurface</item> <!-- Better for theming -->
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+
+        <!-- Background -->
+        <item name="boxBackgroundColor">@android:color/transparent</item>
+
+        <!-- Shape Appearance -->
+        <item name="shapeAppearance">@style/PurpleInputShape</item> <!-- Better approach -->
+
+        <!-- For better error handling -->
+        <item name="errorTextColor">@color/error_red</item>
+        <item name="errorIconTint">@color/error_red</item>
+    </style>
+
+    <!-- Add this shape style for better maintainability -->
+    <style name="PurpleInputShape" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+</resources>
